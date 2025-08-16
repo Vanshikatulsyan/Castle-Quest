@@ -15,11 +15,12 @@ The second monster is Mr. Dracula. To finish him off, you must attack him using 
 There are treasure-items scattered throughout the castle for the financially inclined ones. Since you carry a bag with you, you can put all the items that you pick during the game (the treasure, the dagger and the magical shield) in that bag. The bag can only contain at the most 10 items at a time. The treasure is of three types. There is a golden egg in room 2 and a golden chalice in room 4. In room 8, there’s a piece of paper with the proof of the famous unsolved problem P=NP on it . The golden egg and the golden chalice are worth half a million dollar each; where as the proof paper is worth a million dollar. Unfortunately there are no buyers of the shield and dagger so they are of no particular value in the OOPtopia black market. 
 
 Once an item is picked, you can drop it in any room if you want. If a monster is attacked without the weapon that he can be killed with in your bag, you’ll die. If you get out of the castle without freeing the princess, you’ll lose the game.
+<img width="1268" height="560" alt="image" src="https://github.com/user-attachments/assets/f756ed38-4d9c-47b0-8db0-6833d0539417" />
 
-![](Castle Quest/Zelda-Game/images/i.png)
 
 ## Interface
-![interface](../master/images/interface.png)
+<img width="993" height="801" alt="image" src="https://github.com/user-attachments/assets/3d146838-aba7-4548-89dc-2e8bd387ce22" />
+
 
 ## Project Requirements
 Your project is to implement this game. Here are a few requirements that need to be implemented. 
